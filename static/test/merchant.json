@@ -1,0 +1,17 @@
+[
+  {
+    "mid":1001,
+    "logo":"http://yimei.huabeimao.net/static/images/sample/nav1.png",
+    "name":"整形1",
+    "description":"简介1简介1简介1简介1简介1简介1简介1",
+    "descPic":[
+      "http://yimei.huabeimao.net/static/images/seize_a_seat.jpg",
+      "http://yimei.huabeimao.net/static/images/sample/nav2.png",
+      "http://yimei.huabeimao.net/static/images/sample/nav3.png",
+      "http://yimei.huabeimao.net/static/images/sample/nav4.png"
+    ],
+    "txState":0,
+    "txms":"贴息免息活动提示文案",
+    "interests":[]
+  }
+]
